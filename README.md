@@ -1,9 +1,9 @@
 ## Hey there! I am Thejas Suresh. 
 I am currently pursuing BSc(H) in Computer Science from Hansraj College,DU.
-I am always looking forward to develop my technical skills and improve my knowledge in this field.
-
 I have learnt python ,C++ in programming languages and SQL in DBMS.
 Currently practicing DSA.
+
+I am always looking forward to develop my technical skills and improve my knowledge in this field
 Hopeful that I would upload my first project here soon!✨
 
 <!--
