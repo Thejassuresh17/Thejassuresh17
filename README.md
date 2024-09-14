@@ -1,4 +1,7 @@
-## Hi there 👋
+## Hey there! I am Thejas Suresh. 
+I am currently pursuing BSc(H) in Computer Science from Hansraj College,DU.
+I am always looking forward to develop my technical skills and improve my knowledge in this field.
+Hopeful that I would upload my first project here soon!✨
 
 <!--
 **Thejassuresh17/Thejassuresh17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
